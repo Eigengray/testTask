@@ -1,0 +1,8 @@
+{
+    "/js/add_employers.js": "/js/add_employers.js",
+    "/js/delete_employer.js": "/js/delete_employer.js",
+    "/js/get_employers.js": "/js/get_employers.js",
+    "/js/show_employer.js": "/js/show_employer.js",
+    "/js/pagination.js": "/js/pagination.js",
+    "/css/app.css": "/css/app.css"
+}

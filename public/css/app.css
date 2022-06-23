@@ -1,0 +1,26 @@
+.employer_card-img{
+    max-width: 70%;
+    overflow: hidden;
+}
+
+.form-group{
+    margin-bottom: 10px;
+}
+.form-group:last-child{
+    margin-bottom: 0;
+}
+
+.table{
+    margin-top: 40px;
+}
+
+#pagination-demo{
+    display: inline-block;
+    margin-bottom: 1.75em;
+    float: right;
+}
+#pagination-demo li{
+    display: inline-block;
+}
+
+
